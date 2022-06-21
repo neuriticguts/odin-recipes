@@ -1,0 +1,32 @@
+h1 {
+    font-size: 70px;
+    text-align: center;
+    font-family: Arial;
+}
+
+img {
+    float: right;
+    height: auto;
+    width: 35vw;
+}
+
+body {
+    font-size: 24px;
+    font-family: fantasy;
+    background-color: #140941;
+    color: #bc0732;
+}
+
+a,
+a:visited,
+a:hover,
+a:active {
+    line-height: 20px;
+    color: #bc0732;
+}
+
+.home {
+    font-size: 40px;
+    padding: 10vh;
+    text-align: center;
+}
