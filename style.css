@@ -1,7 +1,7 @@
 h1 {
     font-size: 70px;
     text-align: center;
-    font-family: Arial;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
 img {
@@ -12,7 +12,7 @@ img {
 
 body {
     font-size: 24px;
-    font-family: fantasy;
+    font-family: sans-serif;
     background-color: #140941;
     color: #bc0732;
 }
